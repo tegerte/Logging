@@ -5,6 +5,11 @@ from traceback import print_exc
 
 
 class Crud:
+    """
+    Class to perform CRUD operations on database.
+
+    """
+
     def __init__(
         self,
         connection_string=f"sqlite:///log_db.sqlite3",
