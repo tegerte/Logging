@@ -1,3 +1,6 @@
+
+# SOME TEST CODE FOR MY USE
+
 Wichtig:
 
 ###  im model.py muss an der oberen Tabelle die beziehung zur untergeordneten Tabelle stehen:
